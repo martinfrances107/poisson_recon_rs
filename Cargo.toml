@@ -1,0 +1,13 @@
+[package]
+name = "poisson_recon_rs"
+version = "0.1.0"
+edition = "2024"
+description = "Surface Reconstruction Utilities"
+readme = "./README.md"
+metadata = []
+license = "MIT"
+categories = ["Graphics", "Science"]
+keywords =["reconstruction", "surface"]
+
+[dependencies]
+rayon = "1.12.0"
